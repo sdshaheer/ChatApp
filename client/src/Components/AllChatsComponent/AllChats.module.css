@@ -1,0 +1,13 @@
+.container {
+  width: 100%;
+  height: 100vh;
+  padding: 10px;
+  border: solid 1px black;
+  margin: 15px;
+  border-radius: 5px;
+}
+
+.header {
+  margin-right: 20px;
+  font-size: large;
+}

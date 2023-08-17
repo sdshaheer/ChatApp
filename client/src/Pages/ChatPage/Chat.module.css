@@ -1,0 +1,11 @@
+.body {
+  display: flex;
+}
+.allChats {
+  width: 100%;
+}
+.chatBox {
+  flex: 3;
+  margin: 0;
+  padding: 0;
+}
